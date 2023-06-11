@@ -8,6 +8,8 @@
 
 🏆 My Skills: HTML | CSS | Javascript | React.js | Bootstrap | Ruby on Rails | Ruby | SQL | Prototyping | Figma | UX-UI | Git
 
+💻 My Projects: 🍴 [Historant](https://www.historant.de/) and 🛠 [ToolBox](https://tool-box.herokuapp.com/)
+
 🔗 Explore my [LinkedIn](https://www.linkedin.com/in/zahra-ilkhan/) profile for additional information about my background.
 
 <!--
