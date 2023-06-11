@@ -1,13 +1,13 @@
 ### Hi there! 👋 I'm Zara! 😊
 
 🚀 I’m pursuing a career as a web developer.<br>
+
 🌱 I’m currently learning React.js.<br>
-🔗 Explore my [LinkedIn](https://www.linkedin.com/in/zahra-ilkhan/) profile for additional information about my background.
 
-### My Skills:
-
+🏆 My Skills:
 HTML | CSS | Javascript | React.js | Bootstrap | Ruby on Rails | Ruby | SQL | Prototyping | Figma | UX-UI | Git
 
+🔗 Explore my [LinkedIn](https://www.linkedin.com/in/zahra-ilkhan/) profile for additional information about my background.
 
 <!--
 **zarail/zarail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
