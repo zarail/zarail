@@ -1,12 +1,13 @@
 ### 👋 Hi there! I'm Zara!<br>
-#### 🎓 A Uni Bonn and [Le Wagon](https://github.com/lewagon) graduate.
-#### 🚀 Pursuing a career as a web developer.<br>
-#### 🌱 Currently learning React.js.<br>
+🎓 A Uni Bonn and [Le Wagon](https://github.com/lewagon) graduate.<br>
+🚀 Pursuing a career as a web developer.<br>
+🌱 Currently learning React.js.<br>
+
 #### 🏆 My Skills:
 HTML | CSS | Javascript | React.js | Bootstrap | Ruby on Rails | Ruby | SQL | Prototyping | Figma | UX-UI | Git<br>
 #### 💻 My Projects:
 🍴 [Historant](https://www.historant.de/) and 🛠 [ToolBox](https://tool-box.herokuapp.com/)<br>
-#### 🔗 Explore my [LinkedIn](https://www.linkedin.com/in/zahra-ilkhan/) profile for additional information about my background.
+#### 🔭 Explore my [LinkedIn](https://www.linkedin.com/in/zahra-ilkhan/) profile for additional information about my background.
 
 <!--
 **zarail/zarail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
