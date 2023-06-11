@@ -4,6 +4,11 @@
 🌱 I’m currently learning React.js.<br>
 🔗 Explore my [LinkedIn](https://www.linkedin.com/in/zahra-ilkhan/) profile for additional information about my background.
 
+### My Skills:
+
+HTML | CSS | Javascript | React.js | Bootstrap | Ruby on Rails | Ruby | SQL | Prototyping | Figma | UX-UI | Git
+
+
 <!--
 **zarail/zarail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
