@@ -1,8 +1,10 @@
-### Hi there! 👋 I'm Zara! 😊
+👋 Hi there! I'm Zara!
 
-🚀 I’m pursuing a career as a web developer.<br>
+🎓 A Uni Bonn and [Le Wagon](https://github.com/lewagon) graduate.
 
-🌱 I’m currently learning React.js.<br>
+🚀 Pursuing a career as a web developer.
+
+🌱 Currently learning React.js.
 
 🏆 My Skills: HTML | CSS | Javascript | React.js | Bootstrap | Ruby on Rails | Ruby | SQL | Prototyping | Figma | UX-UI | Git
 
