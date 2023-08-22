@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi there, I'm Zara!</h1>
 <p align="left"> 🎓 A Uni Bonn and <a href="https://github.com/lewagon" target="_blank" rel="noreferrer">Le Wagon</a> graduate.</br>
-🚀 Pursuing a career as a web developer.</br>
+🚀 Pursuing a career as a software developer.</br>
 🌱 Currently learning React.js.</p>
 
 <h3 align="left">My Languages and Tools:</h3>
